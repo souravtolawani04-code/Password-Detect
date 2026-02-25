@@ -3,7 +3,7 @@ print("_________________________________")
 
 print("")
 
-number = input("Enter the password")
+number = input("Enter the password : ")
 
 num_len = len(number)
 
@@ -17,4 +17,6 @@ if (num_len >=8 and isNumber == True):
     print("Strong Password")
 else:
     print("Weak Password")
+
+print("Thank you for comming here❤️")
 
