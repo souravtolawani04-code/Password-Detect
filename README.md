@@ -11,14 +11,14 @@ The program checks whether a password is strong or weak based on:
 - Prints the result
 
 ## Example
-1. Enter your password:
-hello123
-Output:
+1. Enter your password:<br>
+hello123<br>
+Output:<br>
 Strong Password
 -----------------------
-2.Enter your password:
-hello
-Output:
+2.Enter your password:<br>
+hello<br>
+Output:<br>
 Weak Password
 
 ## Technologies Used
