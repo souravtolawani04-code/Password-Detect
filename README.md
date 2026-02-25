@@ -15,7 +15,7 @@ The program checks whether a password is strong or weak based on:
 hello123<br>
 Output:<br>
 Strong Password
------------------------
+<br>
 2. Enter your password:<br>
 hello<br>
 Output:<br>
