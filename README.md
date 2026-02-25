@@ -16,7 +16,7 @@ hello123<br>
 Output:<br>
 Strong Password
 -----------------------
-2.Enter your password:<br>
+2. Enter your password:<br>
 hello<br>
 Output:<br>
 Weak Password
